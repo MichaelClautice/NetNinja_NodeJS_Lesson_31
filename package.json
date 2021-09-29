@@ -1,0 +1,24 @@
+{
+  "name": "netninja_nodejs_lesson_31",
+  "version": "1.0.0",
+  "description": "Mike's todo app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelClautice/NetNinja_NodeJS_Lesson_31.git"
+  },
+  "author": "Michael Clautice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelClautice/NetNinja_NodeJS_Lesson_31/issues"
+  },
+  "homepage": "https://github.com/MichaelClautice/NetNinja_NodeJS_Lesson_31#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
